@@ -7,6 +7,9 @@ kramdown:
   auto_ids: true
   syntax_highlighter: rouge
 
+# Excer[ts
+excerpt_separator: <!--more-->
+
 # Permalinks
 permalink:        pretty
 
