@@ -1,7 +1,11 @@
 # Dependencies
-gems:             [jekyll-paginate, redcarpet, jekyll-gist]
-markdown:         redcarpet
-highlighter:      pygments
+gems:             [jekyll-paginate]
+markdown:         kramdown
+highlighter:      rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
 
 # Permalinks
 permalink:        pretty
