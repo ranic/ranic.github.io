@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Religion: The Three C’s (Part 1)'
+date: '2015-04-25T17:06:10-07:00'
+tags:
+- religion
+- reflection
+tumblr_url: http://vijayiyengar.tumblr.com/post/117365719071/religion-the-three-cs-part-1
+---
+The question “What is religion?” evokes a great variety of responses from the world’s people. Some argue that it constitutes a set of “true” answers to fundamental questions of life, death, and other inexplicable phenomena. Others claim that it serves to aggregate notions of morality under a common umbrella. Still others affirm that it precludes scientific advancement by misleading followers to ignore evidence. I argue that while religion was borne from pure intentions, each intention brings a pitfall that distorts our perception of religion as a whole. This dichotomy distances us from reaping the originally intended benefits.
+
+Here, I attempt to present an objective analysis of what constitutes religion, why it benefits us, and the associated pitfalls. I call these the Three C’s of Religion:
+
+<!--more-->
+
+### Culture
+
+All religions boast a plethora of stories and traditions. Indeed, many ancient advances in language, architecture, and the arts are inspired by religion. Further, some healthy practices people follow unquestioningly today, like vegetarianism or teetotalism, are borne out of the culture of religion. The cultures of the world that we all enjoy owe much of their richness to religion.
+
+*Pitfall: Some rituals/customs are incompatible with modern society (arranged marriage, extreme conservatism w.r.t women). Culture often fails to evolve with the times, but people observe it anyway.*
+
+### Community
+
+This one’s pretty obvious, religion constitutes a cross-national, cross-racial tie between people that fosters common ground where none existed prior.
+
+*Pitfall: Historically, humans have exhibited a strong aversion to others outside their group, leading to intolerance, war, and conflict.*
+
+### Comfort
+
+Religion exists outside the realm of argument and evidence. It saves us from the discomfort of not knowing. It is exempt from the condition of falsifiability; thus we are free to believe its claims without fearing the cold rejection of science. It says to followers, “In a world where everything is susceptible to falsification, here’s something **permanent**.” That’s a powerful statement.
+
+*Pitfall: This comfort often leads people to use religion as a crutch, not confronting real issues by relying on religious arguments. Since these arguments cannot be falsified, they remain trapped in their delusion for longer than necessary.*
+
+<br/>
+
+I believe that these Three C’s constitute the fundamental pillars that make religion so compelling and objectively value-adding to humans. Not without its caveats, however, as the associated pitfalls lead one to anachronism, conflict, and distance from reality. I’ve mused on these ideas for a long time now, and while they are certainly falsifiable (unlike religion), I’ve been hard-pressed to find any other basis for subscribing to a religious faith.
+
+Recently, another question has been irking me: what is the place of “God” in all of this? I could follow the customs of my religion, form a community around it, and derive comfort in believing in its claims without any *spirituality*, any connection with the spirit we call God. Is that enough? If so, why do notions of God even exist?
