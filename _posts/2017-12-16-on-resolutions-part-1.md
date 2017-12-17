@@ -16,6 +16,8 @@ The latter consisted of items like: limit sweets to one per day, only speak kind
 
 Any goal requires some enforcement. The notorious challenge of resolutions comes from the self-imposed, and thus easy to evade, enforcement. My personal “accountability hack” was that every time I made progress on an achievement (e.g. read another book or took a trip), I revisited my document to mark it. When I did so, I inevitably re-read my habits too and reset my resolve to meet them.
 
+<!--more-->
+
 Spoiler alert: this didn't work. Of my 40-ish achievements/habits, only 55% succeeded. Some notable failures:
 * **Write 30 blog posts this year**: Yeah... no. This post is my second this year.
 * **Workout before work**: Can count the number of successes on two hands.
