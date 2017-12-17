@@ -29,7 +29,7 @@ In my last post, I outlined lessons learned from my 2017 resolutions. Here, I pr
 * Brush and floss nightly
     * Strategies: Do it until I feel gross without it.
 * Speak solutions, not problems
-    * Strategies: Pause for a second before speaking, and evaulate if I'm about to say something negative. If so, and it's *not* accompanied by a proposal to resolve that negative thing, don't say it.
+    * Strategies: Pause for a second before speaking, and evaluate if I'm about to say something negative. If so, and it's *not* accompanied by a proposal to resolve that negative thing, don't say it.
 * Set aside 8 hours each weekend for creativity and self-improvement
     * Strategies: Put time on my calendar to go to a public workspace each weekend. Maintain lists of things to read/learn/prototype in this "intellectual play" time.
 * Record all goods purchased and donate a matching amount to charity
