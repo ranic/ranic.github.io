@@ -23,17 +23,17 @@ Spoiler alert: this didn't work. Of my 40-ish achievements/habits, only 55% succ
 * **Workout before work**: Can count the number of successes on two hands.
 * **No binge watching**: In the 2 weeks after inaugaration day, I watched the first 3 seasons of the West Wing. (though this might fall under "therapy" or "denying reality". #noshame)
 
-That said, I did enjoy a few wins, which I include here for completeness (and a not-so-subtle #humblebrag?):
+I also enjoyed a few wins, which I include here for completeness (#humblebrag?):
 * **Ran a half-marathon at an <8-min pace**
 * **Read 26 books** (list forthcoming)
-* **Met personal finance targets** (without \*blah\*coin!)
+* **Met personal finance targets**
 * **Planned and made 12 overnight trips**
 
 
 Upon reflecting on my wins and losses, I learned a few lessons about what works:
 * **Adapt**: Life is random and resolutions arbitrary, be proactive and adapt.
 * **Be Simple**: Resolutions with unambiguous outcomes were best met.
-* **Bias to Action**: Of two otherwise equal goals, pick the more actionable one.
+* **Bias to Action**: Of otherwise equal goals, pick the more actionable one.
 * **Focus on Habits**: Accomplishments come naturally with the right habits.
 * **Prioritize**: Willpower is too limited to waste on “kinda important” things.
 

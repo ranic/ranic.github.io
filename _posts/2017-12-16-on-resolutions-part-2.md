@@ -12,8 +12,6 @@ In my last post, I outlined lessons learned from my 2017 resolutions. Here, I pr
 
 “But it’s not even January 1st yet!”, I hear you say. This year, I set my resolutions on *December 1st*. I’m using December as my trial period to determine which habits are natural/realistic. If some habits turn out to be trivially easy, impractical, or useless, I can adjust my list accordingly. Ultimately, I consider this a stepping stone to a cadence of self-improvement that’s continuous, rather than biased toward the holidays.
 
-Here it is:
-
 <!--more-->
 
 **Goal**: Build sustainable habits that make me healthy, happy, and productive.
@@ -30,11 +28,11 @@ Here it is:
     * Strategies: Social policing. Deleting social apps from my phone. Turning off push notifications. More on this in a future post.
 * Brush and floss nightly
     * Strategies: Do it until I feel gross without it.
-* Speak solutions, not problems.
+* Speak solutions, not problems
     * Strategies: Pause for a second before speaking, and evaulate if I'm about to say something negative. If so, and it's *not* accompanied by a proposal to resolve that negative thing, don't say it.
-* Set aside 8 hours each weekend for creativity and self-improvement.
+* Set aside 8 hours each weekend for creativity and self-improvement
     * Strategies: Put time on my calendar to go to a public workspace each weekend. Maintain lists of things to read/learn/prototype in this "intellectual play" time.
-* Record all goods purchased and donate a matching amount to charity.
+* Record all goods purchased and donate a matching amount to charity
     * Strategies: This one’s easy. As an aside, this means I should only buy things that I need enough to be willing to part with twice the price (modulo the intrinsic value of giving!).
 
 These are by no means set in stone; indeed I have made some edits to this in the past few weeks as I integrate these habits into my life. 
