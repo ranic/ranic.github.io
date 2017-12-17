@@ -21,7 +21,7 @@ Any goal requires some enforcement. The notorious challenge of resolutions comes
 Spoiler alert: this didn't work. Of my 40-ish achievements/habits, only 55% succeeded. Some notable failures:
 * **Write 30 blog posts this year**: Yeah... no. This post is my second this year.
 * **Workout before work**: Can count the number of successes on two hands.
-* **No binge watching**: In the 2 weeks after inaugaration day, I watched the first 3 seasons of the West Wing. (though this might fall under "therapy" or "denying reality". #noshame)
+* **No binge watching**: In the 2 weeks after inaugaration day, I watched the first 3 seasons of Aaron Sorkin's *The West Wing* (#escapingreality).
 
 I also enjoyed a few wins, which I include here for completeness (#humblebrag?):
 * **Ran a half-marathon at an <8-min pace**
