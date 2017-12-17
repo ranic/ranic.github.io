@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "On Resolutions -- Part 2: 2018"
-date: '2017-12-16T16:37:01-08:00'
+date: '2017-12-16T13:37:01-08:00'
 tags:
   - updates
 ---
